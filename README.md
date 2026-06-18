@@ -64,7 +64,6 @@ Smart India Hackathon project for environmental monitoring and contamination pre
 - 🥈 **Runner-up** — Smart India Hackathon Grand Finale 2024-25
 - 🌟 **Regional Winner** — OpenAI Academy × NxtWave GenAI Buildathon 2025-26
 - 📍 **Student Delegate** — India AI Impact Summit 2026
-- ✅ **Qualified** — JEE Advanced 2024
 
 ---
 
