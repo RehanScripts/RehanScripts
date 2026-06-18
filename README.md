@@ -63,8 +63,9 @@ Smart India Hackathon project for environmental monitoring and contamination pre
 - 🏆 **Winner** — AI & Innovation Sprints 2026
 - 🥈 **Runner-up** — Smart India Hackathon Grand Finale 2024-25
 - 🌟 **Regional Winner** — OpenAI Academy × NxtWave GenAI Buildathon 2025-26
+- 🌟 **IDS (Ideate Define Showcase)**, Young Indians Nashik — Facilitated by the Mayor of Nashik
 - 📍 **Student Delegate** — India AI Impact Summit 2026
-
+  
 ---
 
 ## GitHub Stats
